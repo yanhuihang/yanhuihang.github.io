@@ -12,7 +12,11 @@ date: 2020-12-21T13:06:46+08:00
 
 ## 1
 
-来到查分页面，按F12打开开发者工具，选择Console（控制台）选项卡：
+来到查分页面，
+
+![](/jw2.PNG)
+
+按F12打开开发者工具，选择Console（控制台）选项卡：
 
 ![](/jw.PNG)
 
@@ -21,35 +25,7 @@ date: 2020-12-21T13:06:46+08:00
 将以下代码[^footnote]黏贴到`>`形状提示符处，并按回车执行。
 
 ```js
-var has_showModalDialog = !!window.showModalDialog;
-
-if (!has_showModalDialog && !!(window.opener))
-{
-	window.οnbefοreunlοad = function ()
-		{ window.opener.hasOpenWindow = false; }
-}
-
-if (window.showModalDialog == undefined)
-{
-	window.showModalDialog = function (url, mixedVar, features)
-	{
-		if (window.hasOpenWindow)
-		{
-			alert("您已经打开了一个窗口！请先处理它"); // 避免多次点击弹出多个窗口
-			window.myNewWindow.focus();
-		}
-		
-		window.hasOpenWindow = true;  
-		if (mixedVar) var mixedVar = mixedVar;  
-		// 因window.showmodaldialog 与 window.open 参数不一样，所以封装的时候用正则去格式化一下参数
-		if (features) var features = features.replace(/(dialog)|(px)/ig,"").replace(/;/g,',').replace(/\:/g,"=");
-		// window.open("Sample.htm",null,"height=200,width=400,status=yes,toolbar=no,menubar=no");
-		// window.showModalDialog("modal.htm",obj,"dialogWidth=200px;dialogHeight=100px");
-		var left = (window.screen.width - parseInt(features.match(/width[\s]*=[\s]*([\d]+)/i)[1]))/2;
-		var top = (window.screen.height - parseInt(features.match(/height[\s]*=[\s]*([\d]+)/i)[1]))/2;
-		window.myNewWindow = window.open(url,"_blank",features);
-	}
-}
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('5 f=!!0.7;4(!f&&!!(0.a)){0.w=e(){0.a.9=u}}4(0.7==t){0.7=e(j,6,3){4(0.9){r("o！n");0.k.q()}0.9=B;4(6)5 6=6;4(3)5 3=3.8(/(C)|(y)/x,"").8(/;/g,\',\').8(/\\:/g,"=");5 A=(0.b.c-h(3.m(/c[\\s]*=[\\s]*([\\d]+)/i)[1]))/2;5 z=(0.b.l-h(3.m(/l[\\s]*=[\\s]*([\\d]+)/i)[1]))/2;0.k=0.v(j,"p",3)}}',39,39,'window|||features|if|var|mixedVar|showModalDialog|replace|hasOpenWindow|opener|screen|width||function|has_showModalDialog||parseInt||url|myNewWindow|height|match|请先处理它|您已经打开了一个窗口|_0|focus|alert||undefined|false|open|οnbefοreunlοad|ig|px|top|left|true|dialog'.split('|'),0,{}))
 ```
 
 ![](/jw1.PNG)
@@ -57,5 +33,7 @@ if (window.showModalDialog == undefined)
 ## 3
 
 完成。现在就可以像IE一样点击分数查看细分了。
+
+![](/jw3.PNG)
 
 [^footnote]: 代码转自CSDN@夏木炎https://blog.csdn.net/xm393392625/article/details/80361186（细微修改）
