@@ -1,0 +1,5 @@
+baseURL = "https://yanhuihang.github.io/"
+languageCode = "zh-CN"
+title = "yanhuihang.github.io"
+theme = "ananke"
+publishdir = "docs"

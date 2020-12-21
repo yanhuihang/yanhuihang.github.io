@@ -1,0 +1,38 @@
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+        <script src="https://code.highcharts.com.cn/highcharts/highcharts.js"></script>
+        <script src="https://code.highcharts.com.cn/highcharts/modules/exporting.js"></script>
+        <script src="https://code.highcharts.com.cn/highcharts/modules/series-label.js"></script>
+        <script src="https://code.highcharts.com.cn/highcharts/modules/oldie.js"></script>
+        <script src="https://code.highcharts.com.cn/highcharts-plugins/highcharts-zh_CN.js"></script>
+
+</head>
+
+<script src="lib/jquery.min.js"></script>
+
+<title>重男轻女社会的人口学仿真</title>
+
+<body>
+
+男孩出生率：<input type="text" id="boy-birth" value="100/206"> <br/>
+
+出生率：<input type="text" id="birth" value="12.95">（每千人/年）<br/>
+
+死亡率：<input type="text" id="death" value="7">（每千人/年）<br/>
+
+<button id='btn'>开始仿真</button>
+
+<script src="var.js"></script>
+<script src="plot.js"></script>
+<script src="kill.js"></script>
+<script src="born.js"></script>
+<script src="init.js"></script>
+
+</body>
+
+
+</html>

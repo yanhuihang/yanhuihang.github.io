@@ -1,0 +1,26 @@
+<p id='result' class="help-block"></p>
+
+<form id='form1' class="form-inline"
+		role="form" onkeyup="query()">
+	<div class="form-group">
+		<input type="text" class="form-control"
+			id="name" placeholder="姓名">
+		<input type="text" class="form-control"
+			id="student-id" placeholder="学号">
+
+		<button id='continue' onclick='continue_()'
+			type='button'
+			class="hidden btn btn-success">确认参与</button>
+	</div>
+</form>
+
+<img id='qrcode' src='/2020n/qrcode.1.jpg'
+	class='hidden img-rounded img-responsive center-block'>
+<img id='qrcode-c' src='/2020n/qrcode-c.jpg'
+	class='hidden img-rounded img-responsive center-block'>
+
+<script src="/hashes.min.js"></script>
+<script src="/2020n/data.js"></script>
+<script src="/hash.2.js"></script>
+<script src="/jquery.min.js"></script>
+<script src="/query.5.js"></script>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行政部的阅读材料 on yanhuihang.github.io</title>
+    <link>https://yanhuihang.github.io/peixun/</link>
+    <description>Recent content in 行政部的阅读材料 on yanhuihang.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://yanhuihang.github.io/peixun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常见逻辑谬误</title>
+      <link>https://yanhuihang.github.io/peixun/logic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/peixun/logic/</guid>
+      <description>1. 名词解释 非形式谬误 论证过程可能正确，但是提供的依据不正确。如：
+- 错误地使用或理解语言（言词谬误）
+- 使用了不正确或有争议的事实作为前提（实质谬误）
+- 预设了有争议的隐藏前提（实质谬误）
+- 其他不合理的思路（可将这些思路形式视为“隐藏前提”，而归于前者）
+形式谬误 提供的依据也许正确，但是论证过程有误。示例：
+x比y大，y比z大；因此z比x大。（显然的论证错误）
+油条是好吃的，油条是食物；因此食物是好吃的。（因为油条只是食物一种，并非全部食物都是油条）
+不相干的谬误/分散注意力谬误 论证的前提和结论毫无逻辑关联。
+片面辩护
+- 积非成是：主张因为其他人也做错，因此我也可以做错。
+- 不当类比：有些类比推论的类比项，与被类比项毫无关系，即是不相干的谬误。形式：因为X和Y在a、b、c方面相同，所以X和Y在p、q、r方面也必定相同。
+2. 常见逻辑谬误语录 看完所有文章以后，可以尝试找出每条语录的问题。
+A：这蛋真难吃。B：隔壁大姨家那鸭蛋更难吃，你咋不说呢？
+A：这蛋真难吃。B：光说不练，没有建设性，有本事你下个好吃的蛋来！
+A：这蛋真难吃。B：你看电视里那个下蛋的，看上去是一只多么勤劳勇敢善良正直的鸡啊！
+A：这蛋真难吃。B：下不好没有关系，重要的下出来的蛋要好看。
+A：这蛋真难吃。B：你就是吃这鸡蛋长大的，你有什么权力说这蛋不好吃？
+A：这蛋真难吃。B：你这么说是什么居心什么目的？
+A：这蛋真难吃。B：嫌难吃就别吃。
+A：这蛋真难吃。B：隔壁的鸡给了你多少钱，你在这儿胡说？
+A：这蛋真难吃。B：再难吃也是自己家的鸡下的蛋，凭这个就不能说难吃。
+A：这蛋真难吃。B：自己家鸡下的蛋都说不好吃，你还是不是自己人
+A：这蛋真难吃。B：你这个种族主义者！
+A：这蛋真难吃。B：关你什么事？有这个时间在这里说还不如去赚钱！
+A：这蛋真难吃。B：幼稚，心理阴暗，连鸡蛋不好吃也要发牢骚。
+A：这蛋真难吃。B：该鸡蛋被一小撮不会下蛋的母鸡煽动导致变臭。
+A：这蛋真难吃。B：这里的鸡蛋就难吃，隔壁养鸡场的鸡蛋就好吃？叛变者！
+A：这蛋真难吃。B：我们的鸡蛋已经可以打败隔壁养鸡场的鸭蛋，我感到自豪！
+A：这蛋真难吃。B：我们养鸡场的鸡生的蛋，再难吃我也不嫌弃！
+A：这蛋真难吃。B：你竟敢说我们养鸡场的鸡蛋难吃？你站在谁的立场上说话？
+A：这蛋真难吃。B：端起碗吃蛋，放下筷子骂厨子，不知好歹，忘恩负义，无耻！
+A：这蛋真难吃。B：难吃的鸡蛋是极少数，绝大多数鸡蛋是好的，碰巧你吃到而已！
+A：这蛋真难吃。B：这是少数不法分子在蒙蔽A！
+A：这蛋真难吃。B：这是别有用心的煽动，你想干什么？
+A：这蛋真难吃。B：这是没有根据的，希望媒体能客观报道。
+A：这蛋真难吃。B：我看，有些人的鸡蛋不怎么样，我们的鸡蛋好五倍！
+A：这蛋真难吃。B：要有耐心！我们处于养鸡的初级阶段！
+A：这蛋真难吃。B：我们建设有自己特色的养鸡场，让母鸡下出有自己特色的蛋！
+A：这蛋真难吃。B：为咱们养鸡场的鸡加油！
+A：这蛋真难吃。B：鉴于食客无理取闹地说蛋难吃，我们两次上门说服劝解。
+A：这蛋真难吃。B：如果还有食客上访，我们要被迫使用劳动教养。
+A：这蛋真难吃。B：这是近日网上有人别有用心的造谣。
+A：这蛋真难吃。B：你是少数不明真相的人！蛋怎么可能难吃？
+A：这蛋真难吃。B：有本事你去吃鸡肉看看！
+A：这蛋真难吃。B：没有一只蛋是十全十美的，无权对蛋说三道四！
+A：这蛋真难吃。B：比前年的蛋已经进步很多了！
+A：这蛋真难吃。B：为了今天让你吃蛋，无数先烈用生命和鲜血换来啊！
+A：这蛋真难吃。B：注意，这是隔壁养鸡场来的特务！我们永远爱戴咱们老大！
+A：这蛋真难吃。B：这是谣言，我可以负责任地说，我们的鸡蛋都是合格的！
+A：这蛋真难吃。B：这难道只是蛋吗？这是鸡的武器！鸡在用鸡蛋下一盘很大的棋！
+A：这蛋真难吃。B：隔壁的鸡蛋好吃，你去呀！
+A：这蛋真难吃。B：这是反动势力对我养鸡场的蛋说三道四。
+A：这蛋真难吃。B：正确的导向是我们养鸡场之福，错误的导向是我们养鸡场之祸！
+A：这蛋真难吃。B：虽然口感差了点，但对我们的身体是有益的。如果擅自引进一只隔壁养鸡场的蛋，我们的吸收系统和胃的承受力乃至整个内分泌，恐怕都会崩溃的。
+A：这蛋真难吃。B：由于众所周知的原因，我们非常地抱歉！
+A：【该用户发言已被管理员屏蔽】B：叫你啰嗦。看，现在连蛋都没得吃了吧？！</description>
+    </item>
+    
+    <item>
+      <title>提问的智慧</title>
+      <link>https://yanhuihang.github.io/peixun/smart-questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/peixun/smart-questions/</guid>
+      <description>提问的智慧 
+How To Ask Questions The Smart Way
+Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
+本指南英文版版权为 Eric S. Raymond, Rick Moen 所有。
+原文网址：http://www.catb.org/~esr/faqs/smart-questions.html
+Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
+本中文指南是基于原文 3.10 版以及 2010 年由 Gasolin 所翻译版本的最新翻译；
+协助指出翻译问题，请发 Issue，或直接发 Pull Request 给我。
+本文另有繁體中文版。
+原文版本历史 目录  声明 简介 在提问之前 当你提问时  慎选提问的论坛 Stack Overflow 网站和 IRC 论坛 第二步，使用项目邮件列表 使用有意义且描述明确的标题 使问题容易回复 用清晰、正确、精准且语法正确的语句 使用易于读取且标准的文件格式发送问题 精确地描述问题并言之有物 话不在多而在精 别动辄声称找到 Bug 低声下气不能代替你的功课 描述问题症状而非你的猜测 按发生时间先后列出问题症状 描述目标而不是过程 别要求使用私人电邮回复 清楚明确的表达你的问题以及需求 询问有关代码的问题时 别把自己家庭作业的问题贴上来 去掉无意义的提问句 即使你很急也不要在标题写紧急 礼多人不怪，而且有时还很有帮助 问题解决后，加个简短的补充说明   如何解读答案  RTFM 和 STFW：如何知道你已完全搞砸了 如果还是搞不懂 处理无礼的回应   如何避免扮演失败者 不该问的问题 好问题与蠢问题 如果得不到回答 如何更好地回答问题 相关资源 鸣谢  声明 许多项目在他们的使用协助/说明网页中链接了本指南，这么做很好，我们也鼓励大家都这么做。但如果你是负责管理这个项目网页的人，请在超链接附近的显著位置上注明：</description>
+    </item>
+    
+    <item>
+      <title>逻辑谬误列表 1-12</title>
+      <link>https://yanhuihang.github.io/peixun/logic1-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/peixun/logic1-12/</guid>
+      <description>逻辑谬误列表 1-12 文章目录
+ 稻草人论证（Strawman） 滑坡谬误（Slippery slope） 片面辩护（special pleading） 赌徒谬误（The Gambler＇s Fallacy） 假两难（推理、论证）（False dilemma） 因果谬误（Causal Fallacy） 诉诸人身谬误（英语：ad hominem fallacy） 既定观点问题（英语：loaded question） 诉诸群众（拉丁语：Argumentum ad populum） 窃取论点（英语：begging the question） 诉诸权威（英语：Appeal to Authority） 诉诸自然（英语：appeal to nature）  1. 稻草人论证（Strawman）
+错误表述他人的论据，使之容易被攻击
+通过夸张，错误表述，或者完全伪造他人的论据，得以使自己显得有理有据而位于有利位置，不过这种不诚实的行为用于暗中破坏合理的辩论。
+Strawman
+Misrepresenting someone’s argument to make it easier to attack. By exaggerating, misrepresenting, or just completely fabricating someone＇s argument, it＇s much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine rational debate.</description>
+    </item>
+    
+    <item>
+      <title>逻辑谬误列表 13-24</title>
+      <link>https://yanhuihang.github.io/peixun/logic13-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/peixun/logic13-24/</guid>
+      <description>逻辑谬误列表 13-24 13. 合成谬误/分割谬误
+合成谬误（英语：Fallacy of composition），又译为构成谬误，是一种非形式谬误，是基于整体中的某些部分具有某性质，而推论整体本身具备该性质，这是一种以偏概全。
+分割谬误（Division Fallacy）是一种非形式谬误，是基于整体拥有某性质，而推论其中的部分或全部个体都具备该性质，这是一种以全概偏。
+通常情况下，某事物的某一部分是真实的可以意味着它的全部是真实的，但是因为这并不是所有的情况，所以有时候不能够因为它的就某一部分是真实的假定它的全部是真实的。
+Composition-Division
+Assuming that what’s true about one part of something has to be applied to all, or other parts of it. Often when something is true for the part it does also apply to the whole, but because this isn’t always the case it can’t be presumed to be true. We must show evidence for why a consistency will exist. Daniel was a precocious child and had a liking for logic.</description>
+    </item>
+    
+    <item>
+      <title>逻辑谬误（另一篇）</title>
+      <link>https://yanhuihang.github.io/peixun/logic4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/peixun/logic4/</guid>
+      <description>逻辑谬误（另一篇） 简介 一个人开始推理之前，必须了解那些专门未受过相关训练大脑所埋设的陷阱。如果我们能识别这些圈套和花招，就可避免中招，也可阻止其他人过度依赖这些技巧。
+名词解释  同一律：任意命题或概念都应该与自身保持同一。要求我们在进行逻辑推理时，不要偷换概念。 排中律：两个互相矛盾的命题，必然有一个是真的。比如「红色的苹果」和「不是红色的苹果」两个命题，必然有一个是真的。 矛盾律：凡是自相矛盾的理论和观点，都必然是假的。 充足理由律：如果理由是片面的，是不完全的，推理就可能有误。  有毒的逻辑 感性的语言 情感既脆弱又敏感。它们很容易被入侵，也很容易被操纵。只要有人懂得如何诉诸我们的情感，就能欺骗我们，操纵我们，并且让我们把谬误当作真理来接受。这些情感包括：爱、恨、恐惧、嫉妒、愤怒、愧疚、贪婪、希望和忠诚。
+与其说人类是理性的动物，不如说人类是情绪性的动物。靠讲道理来改变一个人的想法和决策，是非常困难的，而利用人类的情绪性本质来达到说服的目的，相对容易很多。
+  诉诸怜悯
+ 教授拜托让我过关啊，要是再被当掉，我就只能退学了。 我有一个老婆、三个孩子，还有八十多岁的老父老母要养。拜托您给我加薪吧！ 我不是故意要伪造证件的，实在是贵国法律不开放海外人士就业与就学啊！ 我是弟弟，你是哥哥，所以你得让着我。 你那么有钱，我那么穷，所以你必须要借给我钱。    诉诸罪恶感
+ 你们衣食无忧，你们什么都不缺。比起全世界上百万的挨饿人群，你们心安理得。 比起谁谁谁，你已经很幸福了    诉诸恐惧
+ 如果你不先杀死敌人，敌人就会先干掉你。 XX医生，难道你没意识到，如果你认定钢铁厂污染环境的事实而引起社会骚动，导致钢铁厂倒闭吗？如果钢铁厂倒闭，成千上万的人就会失业。相信不会有人愿意找一个导致成千上万人失业的医生看病吧。 你好，你的家人被车撞了，现在在医院。快准备手术费打款到……银行。 你再继续酗酒，就会跟你爸一样早死！ 你如果高中毕不了业，就只好穷一辈子！ 把票投给他们就等于把票投给恐怖分子！ 电视广告播出一段可怕的车祸（恐惧），提醒观众乘车时别忘了系上安全带（减少恐惧）。 保险公司的广告小册子上放了房屋被洪水侵袭过的照片（恐惧），而下面则是住宅保险的详细资料（减少恐惧）。 美国政府强力宣称伊拉克拥有大规模毁灭性武器，借此合理化出兵伊拉克的行动。    诉诸希望
+ 尊敬的用户，您的……请领取。 恭喜您！您的手机号已被……抽选为XX奖，您将获得……请…… 你好，我是秦始皇，我并没有死，我现在需要2000元人民币来解冻我在西安的黄金，帐号是我的手机号码，若是你今天帮了我，日后让你统领三军。 中奖彩票营销说辞：这也可能发生在你身上。抽我！说不定就中了呢？    诉诸关爱 诉诸关爱、信任、自豪和忠诚
+（这里的许多示例也包含【非黑即白】谬误）
+ 要么与我同一阵线，要么与我为敌。 你再也不带我出去吃饭了，你是嫌弃我，你再也不爱我了。 反对我观点的人，都是黑粉，都是水军！ 骂XXX，就是不爱国的表现！ 如果你真的为自己的国家感到自豪，真的想看到它繁荣富强，那就买储蓄债券吧。 你什么意思？你一张教会抽奖卷都不买吗？你想干什么，反对教会吗？ 你说不想让警察拥有更多权力是什么意思？你是怎么了，反对法律和制度吗？ 你说总统不能通过法令宣布开战是什么意思？你是怎么了，是无政府主义者吗？ 你要么买中国产品，要么就是不爱国，你现在买了外国产品，那么你就是不爱国。 我爱你，所以你得听我的。 因为你的观点和我不一样，所以你三观不正。 你最近怎么老不在家里吃饭？肯定是你不爱我了！你肯定在外面有小三了！    诉诸真诚</description>
+    </item>
+    
+  </channel>
+</rss>

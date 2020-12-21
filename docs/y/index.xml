@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>管理员的博客 on yanhuihang.github.io</title>
+    <link>https://yanhuihang.github.io/y/</link>
+    <description>Recent content in 管理员的博客 on yanhuihang.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://yanhuihang.github.io/y/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Win32API：调用系统浏览器打开网页</title>
+      <link>https://yanhuihang.github.io/y/shellexecute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/y/shellexecute/</guid>
+      <description>&lt;code&gt;ShellExecute&lt;/code&gt;</description>
+    </item>
+    
+    <item>
+      <title>一个适用于老旧环境的asprintf/vasprintf实现</title>
+      <link>https://yanhuihang.github.io/y/asprintf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/y/asprintf/</guid>
+      <description>适用于某些只有&lt;code&gt;_vsnprintf&lt;/code&gt;的老平台</description>
+    </item>
+    
+    <item>
+      <title>使用哈希值对用户敏感数据进行匿名化</title>
+      <link>https://yanhuihang.github.io/y/hash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/y/hash/</guid>
+      <description>JavaScript</description>
+    </item>
+    
+    <item>
+      <title>哔哩哔哩弹幕用户查询小记</title>
+      <link>https://yanhuihang.github.io/y/bilibili-crc32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanhuihang.github.io/y/bilibili-crc32/</guid>
+      <description>一次CRC32攻击</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="renderer" content="webkit">
+		<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+		<title>联动样例</title>
+
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+		<style>
+		body {
+			padding-top: 50px;
+		}
+		.starter-template {
+			padding: 40px 15px;
+			text-align: center;
+		}
+		</style>
+
+		<!--[if lt IE 9]>
+			<script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+			<script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">/</a>
+				</div>
+				<div id="navbar" class="collapse navbar-collapse">
+					<!--ul class="nav navbar-nav">
+						<li class="active"><a href="#">主页</a></li>
+						<li><a href="#about">关于</a></li>
+						<li><a href="#contact">联系</a></li>
+					</ul-->
+				</div><!--/.nav-collapse -->
+			</div>
+		</nav>
+
+
+		<div class="container">
+			<div class="starter-template">
+				<h1>联动样例</h1>
+				
+				<a href="http://www.baidu.com/link?url=sC6gcDt9jZ3VpvOIrQJItRgEHASNIWgXmpzWYr9lvti&amp;wd=&amp;eqid=e28b50040000ed20000000065f828702" target="_blank" data-click="{&#10;&#9;&#9;&#9;'F':'77A717FA',&#10;&#9;&#9;&#9;'F1':'9D73F1E4',&#10;&#9;&#9;&#9;'F2':'4CA6DC6B',&#10;&#9;&#9;&#9;'F3':'54E5243F',&#10;&#9;&#9;&#9;'T':'1602389763',&#10;&#9;&#9;&#9;&#9;&#9;&#9;'y':'BFAB9BDC'&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;}">Loving life and dreams.</a>
+
+				<a href="https://lisenhui.cn/" target="_blank" data-click="{&#10;&#9;&#9;&#9;'F':'77A717FA',&#10;&#9;&#9;&#9;'F1':'9D73F1E4',&#10;&#9;&#9;&#9;'F2':'4CA6DC6B',&#10;&#9;&#9;&#9;'F3':'54E5243F',&#10;&#9;&#9;&#9;'T':'1602389763',&#10;&#9;&#9;&#9;&#9;&#9;&#9;'y':'BFAB9BDC'&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;}">Loving life and dreams. 直接链接</a>
+				
+				<form class="form-inline" role="form">
+					<div class="form-group">
+						<input type="text" class="form-control"
+							id="input1" placeholder="输入框1"
+							onkeyup="refresh()">
+						<input type="text" class="form-control"
+							id="input2" placeholder="输入框2"
+							onkeyup="refresh()">
+						<p class="help-block" id="result" />
+					</div>
+				</form>
+				
+			</div>
+		</div><!-- /.container -->
+
+		<script src="https://gitee.com/aoyama58/test/raw/master/foo.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+	</body>
+</html>
