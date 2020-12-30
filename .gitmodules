@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "content/AnnualCodeReport"]
+	path = content/AnnualCodeReport
+	url = git@github.com:yanhuihang/AnnualCodeReport.git
