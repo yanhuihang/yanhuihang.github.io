@@ -21,6 +21,11 @@
   </url>
   
   <url>
+    <loc>https://yanhuihang.github.io/ppt/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yanhuihang.github.io/annualcodereport/</loc>
   </url>
   
